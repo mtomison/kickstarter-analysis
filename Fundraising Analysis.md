@@ -30,5 +30,5 @@ Now, looking at the outcomes based on the fundraising goals, we grouped them at 
 - The data is 4 to 12 years old.  More current data would be better.
 - While we have the countries, having regions and/or cities might be useful.
 >What are some other possible tables and/or graphs that we could create?
-- While it was concluded that May and June were the most successful launch months, I think comparing that to the amount to determine a cross section of both launch date and the goal and the success rate of those two parameters
+- While it was concluded that May and June were the most successful launch months, I think comparing that to the amount to determine a cross section of both launch date and the goal and the success rate of those two parameters.
 - We looked at how many were funded, but looking at the ones that exceeded their funding might help to determine the goal to set for future campaigns.
